@@ -1,0 +1,131 @@
+---
+object: card
+id: e0e3a11d-c7a3-495b-add9-0503141b1cfe
+oracle_id: 3d395892-ef4e-41ea-a66b-99dc3affe51a
+multiverse_ids: []
+tcgplayer_id: 78561
+name: Griffin
+lang: en
+released_at: '2013-09-06'
+uri: https://api.scryfall.com/cards/e0e3a11d-c7a3-495b-add9-0503141b1cfe
+scryfall_uri: https://scryfall.com/card/tddl/1/griffin?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.jpg?1593142722
+  normal: https://cards.scryfall.io/normal/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.jpg?1593142722
+  large: https://cards.scryfall.io/large/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.jpg?1593142722
+  png: https://cards.scryfall.io/png/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.png?1593142722
+  art_crop: https://cards.scryfall.io/art_crop/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.jpg?1593142722
+  border_crop: https://cards.scryfall.io/border_crop/front/e/0/e0e3a11d-c7a3-495b-add9-0503141b1cfe.jpg?1593142722
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Griffin
+oracle_text: Flying
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: e0e3a11d-c7a3-495b-add9-0503141b1cfe
+  component: token
+  name: Griffin
+  type_line: Token Creature — Griffin
+  uri: https://api.scryfall.com/cards/e0e3a11d-c7a3-495b-add9-0503141b1cfe
+- object: related_card
+  id: b0c1cd62-aa6e-4120-ba70-1f12c8efe389
+  component: combo_piece
+  name: Griffin Aerie
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/b0c1cd62-aa6e-4120-ba70-1f12c8efe389
+- object: related_card
+  id: deee22d6-43be-4ae9-9ae1-b28371b24031
+  component: combo_piece
+  name: Griffin Guide
+  type_line: Enchantment — Aura
+  uri: https://api.scryfall.com/cards/deee22d6-43be-4ae9-9ae1-b28371b24031
+- object: related_card
+  id: 11302b64-b070-4fd2-957f-b8f7830e1bf6
+  component: combo_piece
+  name: Zeriam, Golden Wind
+  type_line: Legendary Creature — Griffin
+  uri: https://api.scryfall.com/cards/11302b64-b070-4fd2-957f-b8f7830e1bf6
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8dd89664-d3d2-4cc3-8808-7c84533e9670
+set: tddl
+set_name: 'Duel Decks: Heroes vs. Monsters Tokens'
+set_type: token
+set_uri: https://api.scryfall.com/sets/8dd89664-d3d2-4cc3-8808-7c84533e9670
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atddl&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tddl?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e0e3a11d-c7a3-495b-add9-0503141b1cfe/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3d395892-ef4e-41ea-a66b-99dc3affe51a&unique=prints
+collector_number: '1'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Johann Bodin
+artist_ids:
+- d92e2dd9-9ef6-43f6-81f8-df87f9066983
+illustration_id: b1eddbf4-ec73-42bf-9abe-de030b664054
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.18'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Griffin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Griffin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Griffin
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78561?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Griffin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Griffin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

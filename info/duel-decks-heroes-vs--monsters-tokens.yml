@@ -1,0 +1,16 @@
+---
+object: set
+id: 8dd89664-d3d2-4cc3-8808-7c84533e9670
+code: tddl
+name: 'Duel Decks: Heroes vs. Monsters Tokens'
+uri: https://api.scryfall.com/sets/8dd89664-d3d2-4cc3-8808-7c84533e9670
+scryfall_uri: https://scryfall.com/sets/tddl
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atddl&unique=prints
+released_at: '2013-09-06'
+set_type: token
+card_count: 2
+parent_set_code: ddl
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddl.svg?1694404800
